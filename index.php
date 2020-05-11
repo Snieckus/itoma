@@ -2,6 +2,14 @@
 include('header.php');
 include('database.php');
 ?>
+<div class="container"">
+    <div class="row"">
+        <div class="col-lg-12" style="text-align:center">
+            <h1>ITOMA</h1>
+        </div>
+    </div>
+    <hr>
+</div>
 <div class="container">
     <div class="row">
         <div class="col-lg-12" style="text-align:center">
